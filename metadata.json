@@ -1,0 +1,8 @@
+{
+  "name": "REMIX Ha Hu ai path",
+  "description": "Interactive Duolingo-style 3-level AI learning path dashboard with Liquid Glass aesthetic, Google Sans font, persistent IndexedDB database storage, streak tracking, and interactive quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
